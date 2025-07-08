@@ -9,14 +9,16 @@
   {
     "ip": "10.0.0.5",
     "port": "1080",
-    "username": null,
-    "password": null,
-     "country": "USA"
+   "username": "myuser",
+    "password": "mypassword123",
+    "country": "USA
   },
   {
     "ip": "proxy.example.com",
     "port": "8888",
-    "country": "USA"
+     "username": "myuser",
+    "password": "mypassword123",
+    "country": "USA
 
   }
 ]
