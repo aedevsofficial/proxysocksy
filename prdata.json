@@ -11,7 +11,63 @@
     "port": "1080",
    "username": "myuser",
     "password": "mypassword123",
+    "country": "CA"
+  },
+  {
+    "ip": "proxy.example.com",
+    "port": "8888",
+     "username": "myuser",
+    "password": "mypassword123",
+    "country": "DE"
+
+  },
+  {
+    "ip": "proxy.example.com",
+    "port": "8888",
+     "username": "myuser",
+    "password": "mypassword123",
+    "country": "UK"
+
+  },
+  {
+    "ip": "proxy.example.com",
+    "port": "8888",
+     "username": "myuser",
+    "password": "mypassword123",
+    "country": "SP"
+
+  },
+  {
+    "ip": "proxy.example.com",
+    "port": "8888",
+     "username": "myuser",
+    "password": "mypassword123",
+    "country": "IT"
+
+  },
+  {
+    "ip": "proxy.example.com",
+    "port": "8888",
+     "username": "myuser",
+    "password": "mypassword123",
+    "country": "USSR"
+
+  },
+  {
+    "ip": "proxy.example.com",
+    "port": "8888",
+     "username": "myuser",
+    "password": "mypassword123",
     "country": "USA"
+
+  },
+  {
+    "ip": "proxy.example.com",
+    "port": "8888",
+     "username": "myuser",
+    "password": "mypassword123",
+    "country": "USA"
+
   },
   {
     "ip": "proxy.example.com",
