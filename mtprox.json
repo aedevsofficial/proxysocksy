@@ -1,42 +1,42 @@
 [
 
   {
-    "ip" : "5.34.215.224"
+    "ip" : "5.34.215.224",
     "secret": "6d95e44c1baf7acc8c060ec83751a309",
     "port": "888",
     "country": "Latvia"
   },
 
   {
-    "ip" : "5.34.215.224"
+    "ip" : "5.34.215.224",
     "secret": "eeb5b0c97b6de3b425df741858655c419b617a7572652e6d6963726f736f66742e636f6d",
     "port": "443",
     "country": "Thailand"
   },
 
   {
-    "ip" : "5.34.215.224"
+    "ip" : "5.34.215.224",
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
     "port": "443",
     "country": "Germany"
   },
 
   {
-        "ip" : "5.34.215.224"
+        "ip" : "5.34.215.224",
     "secret": "6d95e44c1baf7acc8c060ec83751a309",
     "port": "888",
     "country": "USA"
   },
 
   {
-        "ip" : "5.34.215.224"
+        "ip" : "5.34.215.224",
     "secret": "6d95e44c1baf7acc8c060ec83751a309",
     "port": "888",
     "country": "USA"
   },
 
   {
-      "ip" : "5.34.215.224"
+      "ip" : "5.34.215.224",
     "secret": "6d95e44c1baf7acc8c060ec83751a309",
     "port": "888",
     "country": "USA"
