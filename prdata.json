@@ -2,6 +2,18 @@
   {
     "ip": "192.168.1.100",
     "port": "8080",
+    "username": "nill",
+    "password": "nill",
+    "country": "USA"
+  },
+  {
+    "ip": "192.168.1.100",
+    "port": "8080",
+    "country": "USA"
+  },
+  {
+    "ip": "192.168.1.100",
+    "port": "8080",
     "username": "myuser",
     "password": "mypassword123",
     "country": "USA"
