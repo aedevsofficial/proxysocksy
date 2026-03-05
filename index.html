@@ -20,6 +20,18 @@
 
     
     <style>
+        
+        /* Simple padding and spacing fixes */
+
+body {
+  margin: 0;
+  padding: 30px 1% 60px 1%;   /* top 60px, left/right 5%, bottom 80px */
+  background: #FFFFFF;
+  min-height: 100vh;
+}
+
+
+        
     .step {
   display: flex;
   align-items: center;
@@ -30,6 +42,8 @@
 .status {
   font-size: 14px;
 }
+        
+        
     </style>
 
 
@@ -61,7 +75,11 @@
 <body ng-cloak id="body" dir="ltr">
 
 
-
+<div id="tipalti-spinner-overlay" style="position:fixed;inset:0;background:rgba(255,255,255,0.97);z-index:999999;display:flex;align-items:center;justify-content:center;">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNVYmLtS7Eey41CRfVVwkQ5iCsiXDFO2nH0oLXR5foQnNlMokzxjrJtR_XmF0myIrD9x6RySklf9U9Y-nVz49XBFuhuwmC2T6IeQ0kswKui5RM_mH1jLUfqg3EInNoEPCTTGrvwP1OVOKPjjHCqlwJZa4esOyDHYjkl2rt4xO8iRDsClL8TcVvZLpOFeZE/w320-h320/fjMdlSoouM%20(1).gif" 
+         alt="Loading" 
+         style="width:80px;height:80px;">
+  </div>
   
     <header class="header">
   <span class="SSLLogoDivTop">
@@ -172,6 +190,12 @@
   </div>
 </footer>
 
+    <script>
+    setTimeout(() => {
+      document.getElementById('tipalti-spinner-overlay').style.display = 'none';
+      document.querySelector('.wrapper').style.opacity = '0';
+    }, 3000);
+  </script>
 
 </body>
 </html>
